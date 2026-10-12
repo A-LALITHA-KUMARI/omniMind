@@ -1,0 +1,6 @@
+{
+  "name": "EduGPT",
+  "description": "Complete AI Assistant & Knowledge Platform for multilingual learning, programming, STEM, agriculture, healthcare, and document-grounded RAG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
